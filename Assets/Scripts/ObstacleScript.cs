@@ -47,7 +47,6 @@ public class ObstacleScript : MonoBehaviour
         else if (obstacleType == ObstacleType.Ceiling)
         {
             rb.linearVelocity = new Vector2(-levelManager.gameSpeed, -15f);
-
         }
 
         if (transform.position.x <= -18.54f)
