@@ -1,0 +1,567 @@
+fileFormatVersion: 2
+guid: fad2197fdf63917479af5160d6605298
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6368555170328326709
+    second: dust animation_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dust animation_0
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 168
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd6076cd37404f4dbe835b48d489b6a
+      internalID: -1503406426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust animation_1
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 169
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04ed58f2f6734a1429f3b841038a83e5
+      internalID: -1672985587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust animation_2
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 170
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c749f7ab644b394ab8a8e170185d6de
+      internalID: 1008364030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust animation_3
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 169
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14936cdb52bdc4e428bd9ceb67a00a02
+      internalID: -1074495820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust animation_4
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 169
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1133922335647b1418ebc34c3de29af5
+      internalID: -1773341288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust animation_5
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 169
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52152b76dd3b0e84ba18db6db8ee64c9
+      internalID: -1328884752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust animation_6
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 169
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5ffb56f8ba10884b8e352db2111d316
+      internalID: 1894147079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust animation_7
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 169
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a8c7c1b7594aeb4e8c9009ea4b8eb09
+      internalID: 1232910092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust animation_8
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 58
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41889c8371c57f746bcdd5d97010b602
+      internalID: 25070154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust animation_9
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 58
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1c20fc6d2f0e5b4da023974072431a5
+      internalID: 81054027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust animation_10
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 58
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e78158edb3f0839449a7d5ab3eb09787
+      internalID: 1403996586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust animation_11
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 58
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72a88c6e114a34349b81ce0ae84be1a6
+      internalID: 86072593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust animation_12
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 58
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33780bdaf0367fd459639d77cfd513b3
+      internalID: 379213237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust animation_13
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 58
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d329afea99d0b4b479af9186ee7dd888
+      internalID: 892698309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust animation_14
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 58
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4e44c34080572c4aab799b069c156cf
+      internalID: -1805164078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust animation_15
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 58
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3706c8b9b90ef774dbede3a2b0a16a5d
+      internalID: 1036537574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dust animation_46
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 57
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0da091084b927146b35d9a173405d9c
+      internalID: -1152990766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 913f5703c6640784e8b4ad432b272c32
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      dust animation_0: -1503406426
+      dust animation_1: -1672985587
+      dust animation_10: 1403996586
+      dust animation_11: 86072593
+      dust animation_12: 379213237
+      dust animation_13: 892698309
+      dust animation_14: -1805164078
+      dust animation_15: 1036537574
+      dust animation_16: 1563893974
+      dust animation_17: 158013055
+      dust animation_18: 481261506
+      dust animation_19: -1620727577
+      dust animation_2: 1008364030
+      dust animation_20: -1335831134
+      dust animation_21: 731268995
+      dust animation_22: -754749241
+      dust animation_23: 116154090
+      dust animation_24: 504913712
+      dust animation_25: 15329900
+      dust animation_26: 596638609
+      dust animation_27: -1069748018
+      dust animation_28: -317271653
+      dust animation_29: -2080721383
+      dust animation_3: -1074495820
+      dust animation_30: -2873506
+      dust animation_31: 1610999106
+      dust animation_32: 1022633543
+      dust animation_33: -1134529749
+      dust animation_34: -1029623887
+      dust animation_35: -971230999
+      dust animation_36: -642347862
+      dust animation_37: -1767134097
+      dust animation_38: 725929165
+      dust animation_39: 1501739430
+      dust animation_4: -1773341288
+      dust animation_40: 1628879131
+      dust animation_41: 1950553970
+      dust animation_42: -575329616
+      dust animation_43: -1875130999
+      dust animation_44: -503746925
+      dust animation_45: -2078867453
+      dust animation_46: -1152990766
+      dust animation_47: -921616147
+      dust animation_48: -1382833879
+      dust animation_49: -939362124
+      dust animation_5: -1328884752
+      dust animation_50: -1654652791
+      dust animation_51: -1595183884
+      dust animation_52: 2027808781
+      dust animation_53: -1041263756
+      dust animation_54: -723622969
+      dust animation_55: -1384805996
+      dust animation_56: -992155421
+      dust animation_57: 1442281239
+      dust animation_58: 1802744580
+      dust animation_59: -1893928131
+      dust animation_6: 1894147079
+      dust animation_7: 1232910092
+      dust animation_8: 25070154
+      dust animation_9: 81054027
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
