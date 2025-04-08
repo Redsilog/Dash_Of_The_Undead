@@ -46,12 +46,11 @@ public class ObstacleScript : MonoBehaviour
         }
         else if (obstacleType == ObstacleType.Ceiling)
         {
-            rb.linearVelocity = new Vector2(-levelManager.gameSpeed, -15);
+            rb.linearVelocity = new Vector2(-levelManager.gameSpeed, -15f);
 
         }
 
-
-        if (transform.position.x <= -18.59f)
+        if (transform.position.x <= -18.54f)
         {
             Destroy(transform.parent.gameObject);
         }
@@ -59,7 +58,7 @@ public class ObstacleScript : MonoBehaviour
 
     public void Killed()
     {
-        if (anim == null) return; //if not zombie, return
+        if (anim == null) return;
         SFXManager.PlaySfx("zombie-death");
         anim.SetTrigger("Dead");
         levelManager.kills++;

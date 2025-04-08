@@ -127,9 +127,7 @@ public class PlayerMovement : MonoBehaviour
                     ObstacleScript obstacleScript = hit.collider.GetComponent<ObstacleScript>();
                     obstacleScript.Killed();
                 }
-                attackSpeed = 0.2f;
-
-
+                attackSpeed = 0.1f;
             }
         }
         else
