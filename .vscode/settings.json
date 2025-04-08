@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "AGP_Finals_Deligero.sln"
+    "dotnet.defaultSolution": "Dash_Of_The_Undead.sln"
 }
